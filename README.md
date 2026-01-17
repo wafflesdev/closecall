@@ -2,7 +2,7 @@
 
 A full-stack React Router application with authentication, featuring both web and mobile implementations.
 
-##Features
+## Features
 
 - **Authentication System**: JWT-based authentication with persistent login
 - **Admin Panel**: Protected admin dashboard with modern UI
